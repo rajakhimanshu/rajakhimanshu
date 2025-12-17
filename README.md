@@ -1,15 +1,5 @@
-👋 Hi, I’m Himanshu Rajak — a B.Tech Complete Science AIML Engineering student who loves building tools, automating workflows, and experimenting with AI-assisted development.
+Since class 7, I’ve been passionate about programming and problem-solving, which led me to explore backend development, AI, and machine learning. Over the years, I’ve gained hands-on experience in building scalable systems with Python, MQL5, and C#.
 
-💻 I build projects fast — my most recent one is Discipline OS, an MVP I created within a week, focused on productivity and habit-building.
+Alongside my programming journey, I actively trade in the financial markets, where I combine my technical skills with market knowledge to design and develop automated trading systems at an institutional standard.
 
-📊 I’m actively learning algorithmic trading, math-driven strategies, and tool development. I use and maintain small trading utilities .
-Working on Things Like HFT.
-
-🤖 These days I code with the help of AI agents (ChatGPT, Claude, Google AI) to iterate faster and ship ideas quickly.
-
-🚀 Always exploring new tech, breaking things, fixing them, and learning along the way. 
-
-<!---
-rajakhimanshu/rajakhimanshu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Currently, I’m working on DisciplineOS, an AI-powered productivity assistant aimed at making personal and professional workflows smarter. My long-term goal is to create cutting-edge fintech and AI-driven solutions that bring real-world impact.
