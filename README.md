@@ -1,5 +1,65 @@
-Since class 7, I’ve been passionate about programming and problem-solving, which led me to explore backend development, AI, and machine learning. Over the years, I’ve gained hands-on experience in building scalable systems with Python, MQL5, and C#.
+# Hi, I'm Himanshu Rajak 👋
 
-Alongside my programming journey, I actively trade in the financial markets, where I combine my technical skills with market knowledge to design and develop automated trading systems at an institutional standard.
+Full-Stack Engineer and Quant Developer focused on building AI products, fintech platforms, and quantitative systems.
 
-Currently, I’m working on DisciplineOS, an AI-powered productivity assistant aimed at making personal and professional workflows smarter. My long-term goal is to create cutting-edge fintech and AI-driven solutions that bring real-world impact.
+## What I'm Building
+
+### Capso
+
+AI-powered captioning platform for Indian creators.
+
+* FastAPI + Next.js
+* Whisper transcription
+* Hindi-English code-switching support
+* Razorpay integration
+
+### GrowEdgeCapital
+
+Investment management platform handling investor onboarding, KYC workflows, portfolio management, and operational infrastructure.
+
+* React + TypeScript
+* FastAPI + PostgreSQL
+* Celery + Redis
+* AWS + Cloudflare
+
+### FORGE
+
+Multi-agent AI research and startup validation engine.
+
+* LangGraph
+* LangChain
+* RAG Pipelines
+* Agent Orchestration
+
+## Areas of Interest
+
+* Artificial Intelligence
+* Full-Stack Engineering
+* Financial Technology (FinTech)
+* Quantitative Systems
+* Cloud Infrastructure
+* Algorithmic Trading
+* Product Development
+
+## Tech Stack
+
+**Backend**
+Python, FastAPI, PostgreSQL, SQLAlchemy, Redis
+
+**Frontend**
+React, Next.js, TypeScript, Tailwind CSS
+
+**Cloud & Infrastructure**
+AWS, Cloudflare, Docker, Supabase
+
+**AI Engineering**
+LangGraph, LangChain, RAG, AI Agents, Whisper, Local LLMs
+
+**Quantitative Systems**
+MQL5, MetaTrader, Strategy Research, Backtesting
+
+## Current Focus
+
+Building Capso while continuing research and development in AI systems, fintech infrastructure, and quantitative engineering.
+
+🌐 Website: himanshurajak.in
