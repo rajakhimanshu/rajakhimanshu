@@ -1,65 +1,60 @@
-# Hi, I'm Himanshu Rajak 👋
+# Hi, I'm Himanshu Rajak
 
-Full-Stack Engineer and Quant Developer focused on building AI products, fintech platforms, and quantitative systems.
+2nd-year CSE (AI/ML) at TIT Bhopal. I build AI products, FinTech systems, and tools that actually ship.
 
-## What I'm Building
+**Website:** [himanshurajak.in](https://www.himanshurajak.in) · **Email:** [contact@himanshurajak.in](mailto:contact@himanshurajak.in)
 
-### Capso
+---
 
-AI-powered captioning platform for Indian creators.
+## What I'm building
 
-* FastAPI + Next.js
-* Whisper transcription
-* Hindi-English code-switching support
-* Razorpay integration
+### [Kapsee](https://kapsee.in)
+Hinglish caption generation for Indian short-form creators — upload, transcribe, generate, refine.
 
-### GrowEdgeCapital
+`Next.js` · `FastAPI` · `faster-whisper` · `PostgreSQL` · `Razorpay`
 
-Investment management platform handling investor onboarding, KYC workflows, portfolio management, and operational infrastructure.
+### [GrowEdge Capital](https://www.growedgecapital.com)
+Live investment platform. I work as founding engineer on product, KYC, portfolios, and day-to-day reliability.
 
-* React + TypeScript
-* FastAPI + PostgreSQL
-* Celery + Redis
-* AWS + Cloudflare
+`React` · `TypeScript` · `FastAPI` · `PostgreSQL` · `Celery` · `Redis`
 
-### FORGE
+### [EarthRanker](https://earthranker.himanshurajak.in)
+Statistical rarity engine with AI-generated insights. Live.
 
-Multi-agent AI research and startup validation engine.
+`React` · `Firebase` · `Groq` · `Vercel`
 
-* LangGraph
-* LangChain
-* RAG Pipelines
-* Agent Orchestration
+### [FORGE](https://github.com/rajakhimanshu/forge)
+Multi-agent research pipeline — idea in, research / stack / GTM plan out. Core at ~90%, not deployed yet.
 
-## Areas of Interest
+`LangGraph` · `Groq` · `Tavily` · `Python`
 
-* Artificial Intelligence
-* Full-Stack Engineering
-* Financial Technology (FinTech)
-* Quantitative Systems
-* Cloud Infrastructure
-* Algorithmic Trading
-* Product Development
+---
 
-## Tech Stack
+## Focus
 
-**Backend**
-Python, FastAPI, PostgreSQL, SQLAlchemy, Redis
+- AI products & agent systems
+- Full-stack / FinTech engineering
+- Cloud infra (AWS, Cloudflare, Vercel)
+- Systematic market tooling (MQL5 / MT5, research, backtesting)
 
-**Frontend**
-React, Next.js, TypeScript, Tailwind CSS
+## Stack I use most
 
-**Cloud & Infrastructure**
-AWS, Cloudflare, Docker, Supabase
+| Area | Tools |
+| --- | --- |
+| Backend | Python, FastAPI, PostgreSQL, Redis, Celery |
+| Frontend | React, Next.js, TypeScript, Tailwind |
+| AI | LangGraph, RAG, Whisper, Groq |
+| Infra | AWS, Cloudflare, Docker, Vercel |
+| Markets | MQL5, MetaTrader 5, backtesting |
 
-**AI Engineering**
-LangGraph, LangChain, RAG, AI Agents, Whisper, Local LLMs
+## Currently
 
-**Quantitative Systems**
-MQL5, MetaTrader, Strategy Research, Backtesting
+Shipping Kapsee, supporting GrowEdge Capital as founding engineer, and keeping EarthRanker live — while studying CSE AI/ML.
 
-## Current Focus
+---
 
-Building Capso while continuing research and development in AI systems, fintech infrastructure, and quantitative engineering.
-
-🌐 Website: himanshurajak.in
+<p align="left">
+  <a href="https://www.himanshurajak.in">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/rajakhimanshu/">LinkedIn</a> ·
+  <a href="mailto:contact@himanshurajak.in">Email</a>
+</p>
