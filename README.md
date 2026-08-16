@@ -10,7 +10,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/3-Live_Products-1a1a1a?style=flat-square" />
-  <img src="https://img.shields.io/badge/66%2B-Backend_Tests-1a1a1a?style=flat-square" />
   <img src="https://img.shields.io/badge/8%2B-EAs_Built_%26_Tested-1a1a1a?style=flat-square" />
 </p>
 
@@ -20,8 +19,8 @@
 
 B.Tech CSE (AI/ML), TIT Bhopal. Here's the ledger, pulled straight from commit history and production logs:
 
-- **Founding engineer, GrowEdge Capital** — a live investment-operations platform supporting portfolio, KYC, payout, and withdrawal workflows. First commit 1 May 2026, still shipping (last commit 15 Aug 2026, the day before this was written). ~120,000 lines across app, API, and tests.
-- **Founder, Kapsee** — Hinglish AI captioning SaaS, live at `kapsee.in`, shipping since March 2025. `api.kapsee.in/health` and `www.kapsee.in` both verified 200 OK. ~61,000 lines, 9 test modules, EC2 + Vercel + Caddy in production.
+- **Founding engineer, GrowEdge Capital** — a live investment-operations platform supporting portfolio, KYC, payout, and withdrawal workflows. First commit 1 May 2026, still shipping (last commit 15 Aug 2026, the day before this was written).
+- **Founder, Kapsee** — Hinglish AI captioning SaaS, live at `kapsee.in`, shipping since March 2025. `api.kapsee.in/health` and `www.kapsee.in` both verified 200 OK. 9 test modules, EC2 + Vercel + Caddy in production.
 - **8+ Expert Advisors** designed and forward-tested on MT5 accounts across 2025–2026 (Aureon, Rapid Bullet, EA Elite v8.10, HFT prototypes), plus an independent multi-year private indicator (`Dr.D / DX`) ported across MQL5, Pine Script, and Python.
 - **Costed, holdout-tested quant research** — not just backtests. My most recent trading code compares strategies net of costs on a 30% holdout set, the kind of rigor that separates a real edge from a curve-fit one.
 - **Built Astro.AI** — a Vedic astrology reasoning engine with 40+ backend modules covering ephemeris calculation, dashas, transits, yogas, shadbala, and a RAG pipeline over classical texts.
