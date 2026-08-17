@@ -9,6 +9,7 @@
 </p>
 
 <p align="center">
+    <img src="https://img.shields.io/badge/27+-GitHub_Repo-1a1a1a?style=flat-square" />
   <img src="https://img.shields.io/badge/3-Live_Products-1a1a1a?style=flat-square" />
   <img src="https://img.shields.io/badge/8%2B-EAs_Built_%26_Tested-1a1a1a?style=flat-square" />
 </p>
