@@ -5,7 +5,7 @@
   <a href="https://github.com/rajakhimanshu"><img src="https://img.shields.io/badge/github-rajakhimanshu-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.himanshurajak.in"><img src="https://img.shields.io/badge/site-himanshurajak.in-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/rajakhimanshu/"><img src="https://img.shields.io/badge/linkedin-connect-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/himanshu_rajak22/"><img src="https://img.shields.io/badge/instagram-follow-000000?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.instagram.com/himanshu.rajak22/"><img src="https://img.shields.io/badge/instagram-follow-000000?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 <p align="center">
